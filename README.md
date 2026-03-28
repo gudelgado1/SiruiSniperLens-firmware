@@ -44,6 +44,6 @@ The update process for Sirui Sniper lenses is done via the USB-C port located di
 If you have a firmware version that is not listed here, feel free to open a Pull Request or submit an Issue with the file link.
 Useful Links
 
-    Official Sirui Support
+[Sirui](https://www.sirui.com/support)
 
 Maintained by Gustavo Gouvea
